@@ -1,0 +1,5 @@
+C:\Users\Ilya\RiderProjects\OOP Client\OOP Client\bin\Debug\OOP_Client.exe
+C:\Users\Ilya\RiderProjects\OOP Client\OOP Client\bin\Debug\OOP_Client.pdb
+C:\Users\Ilya\RiderProjects\OOP Client\OOP Client\obj\Debug\OOP Client.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\RiderProjects\OOP Client\OOP Client\obj\Debug\OOP_Client.exe
+C:\Users\Ilya\RiderProjects\OOP Client\OOP Client\obj\Debug\OOP_Client.pdb
